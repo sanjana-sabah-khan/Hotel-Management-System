@@ -6,7 +6,7 @@
     
         <testsuites>
             
-            <testsuite name = "Login">
+            <testsuite name = "hotel management system">
                 <directory>tests</directory>
             </testsuite>
             
